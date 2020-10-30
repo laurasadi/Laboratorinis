@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laboratorinis</string>
+    <string name="app_title">Prisijungimo langas</string>
+    <string name="register_title">Registracijos langas</string>
+    <string name="login_username">Prisijungimo vardas</string>
+    <string name="register_username">Prisijungimo vardas</string>
+    <string name="login_password">Slaptažodis</string>
+    <string name="register_password">Slaptažodis</string>
+    <string name="button_login">Prisijungti</string>
+    <string name="button_register">Registruotis</string>
+    <string name="register_mail">El. paštas</string>
+</resources>
